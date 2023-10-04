@@ -10,7 +10,7 @@ redirect_from:
 
  Hi! I am a second-year(2022-now) Ph.D student in Computer Science and Engineering at the  [University of Notre Dame](https://www.nd.edu/), advised by [Professor.Xiangliang Zhang](https://sites.nd.edu/xiangliang-zhang/). I am also glad to be a member of [NSF Center for Computer Assisted Synthesis (C-CAS)](https://ccas.nd.edu/).
 
-I am deeply engrossed in exploring the realm of AI for science, with a concentrated focus on large language models (LLMs) and graph machine learning. My work is particularly dedicated to the development and design of innovative machine learning methodologies, including graph learning and LLMs, aiming to address and resolve tangible scientific issues. Examples of these real-world problems encompass predicting chemical reactions and forecasting yields, among others.
+I am deeply interested in exploring the realm of AI for science, with a concentrated focus on large language models (LLMs) and graph machine learning. My work is particularly dedicated to the development and design of innovative machine learning methodologies, including graph learning and LLMs, aiming to address and resolve tangible scientific issues. Examples of these real-world problems encompass predicting chemical reactions and forecasting yields, among others.
  
 
 
