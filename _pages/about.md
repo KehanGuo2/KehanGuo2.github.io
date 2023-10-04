@@ -49,6 +49,9 @@ Many people use a git client to create files on their local computer and then pu
 Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png) -->
 
-For more info
+Contact
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+* \[Email\]: kguo2 [at] nd [dot] edu
+* \[Office\]: 244 Fitzpatrick Hall of Engineering
+* \[Location\]: University of Notre Dame, Notre Dame, IN 46565
+
