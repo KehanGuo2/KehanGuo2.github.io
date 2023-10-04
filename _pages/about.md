@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
- Hi! I am a second-year(2022-now) Ph.D student in Computer Science and Engineering at the  [University of Notre Dame](https://www.nd.edu/), advised by [Professor.Xiangliang Zhang](https://sites.nd.edu/xiangliang-zhang/).I am also glad to be a member of [NSF Center for Computer Assisted Synthesis ((C-CAS))](https://ccas.nd.edu/).
+ Hi! I am a second-year(2022-now) Ph.D student in Computer Science and Engineering at the  [University of Notre Dame](https://www.nd.edu/), advised by [Professor.Xiangliang Zhang](https://sites.nd.edu/xiangliang-zhang/). I am also glad to be a member of [NSF Center for Computer Assisted Synthesis ((C-CAS))](https://ccas.nd.edu/).
 
- My research interest lies in AI for science, Large langugae model and graph machine learning. Specially, I am working on designing machine learning methods(graph learning, LLMs and etc) to solve real world science problem, for example, chemical reaction prediction, yield prediction and etc.
+I am deeply engrossed in exploring the realm of AI for science, with a concentrated focus on large language models (LLMs) and graph machine learning. My work is particularly dedicated to the development and design of innovative machine learning methodologies, including graph learning and LLMs, aiming to address and resolve tangible scientific issues. Examples of these real-world problems encompass predicting chemical reactions and forecasting yields, among others.
  
 
 
 News
 ======
-* \[2023.09\] One paper ["What can Large Language Models do in chemistry? A comprehensive benchmark on eight tasks"](https://arxiv.org/abs/2305.18365) is accepted by *Neurips 2023*(https://nips.cc/Conferences/2023/Dates).
+* \[2023.09\] One paper ["What can Large Language Models do in chemistry? A comprehensive benchmark on eight tasks"](https://arxiv.org/abs/2305.18365) is accepted by *Neurips 2023*.
 * \[2023.04\] One paper ["Graph-based molecular representation learning"](https://arxiv.org/abs/2207.04869) is accepted by *IJCAI 2023*
 
 
