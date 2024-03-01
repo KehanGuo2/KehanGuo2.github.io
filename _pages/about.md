@@ -16,6 +16,7 @@ I am deeply interested in exploring the realm of AI for science, with a concentr
 
 News
 ======
+* \[2023.12\] One paper "Uncertainty-aware Yield Prediction with Multimodal Molecular Features" is accepted by *AAAI 2024*.
 * \[2023.09\] One paper ["What can Large Language Models do in chemistry? A comprehensive benchmark on eight tasks"](https://arxiv.org/abs/2305.18365) is accepted by *Neurips 2023*.
 * \[2023.04\] One paper ["Graph-based molecular representation learning"](https://arxiv.org/abs/2207.04869) is accepted by *IJCAI 2023*
 
