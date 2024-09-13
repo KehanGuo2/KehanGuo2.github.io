@@ -13,7 +13,7 @@ Hi, I'm Kehan Guo, a Ph.D student in Computer Science and Engineering at the  [U
 > I am seeking potential research collaborations and the position of industry research intern. If you are interested, please [contact me](mailto:kguo2@nd.edu).
 
 
-:open_book: Research Interest 
+&#128214;: Research Interest 
 ------
 I am exploring how to enhance the **reasoning & planning** capabilities of Large Language Models to address problem in scientific domain. 
 
@@ -23,7 +23,7 @@ For practical applications, my studies encompass Scientific Domains, OOD detecti
  
 
 
-:fire: News 
+&#128293;: News 
 ------
 
 * 2024.05: One paper is accepted by *ACL 2025*
@@ -33,7 +33,7 @@ For practical applications, my studies encompass Scientific Domains, OOD detecti
 * 2023.04: One paper is accepted by *IJCAI 2023*
 
 
-:paperclip: Selected Publications
+&#128206;: Selected Publications
 ------
 
 ### What can Large Language Models do in chemistry? A comprehensive benchmark on eight tasks
