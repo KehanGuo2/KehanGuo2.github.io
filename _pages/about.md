@@ -36,7 +36,23 @@ For practical applications, my studies encompass Scientific Domains, OOD detecti
 :paperclip: Selected Publications
 ------
 
+### What can Large Language Models do in chemistry? A comprehensive benchmark on eight tasks
+<img src="images/llmchem.png"  width="450px" height="200px">
 
+**Kehan Guo∗, Taicheng Guo∗ , Bozhao Nan, Zhenwen Liang, Zhichun Guo, Nitesh V. Chawla, Olaf Wiest, Xiangliang Zhang**
+
+<em><span style="color: green;">Neural Information Processing Systems (NeurIPS 2023)</span></em>   [PDF](https://proceedings.neurips.cc/paper_files/paper/2023/file/bbb330189ce02be00cf7346167028ab1-Paper-Datasets_and_Benchmarks.pdf) [Code](https://github.com/ChemFoundationModels/ChemLLMBench)
+
+---
+
+### Can LLMs Solve Molecule Puzzles? A Multimodal Benchmark for Molecular Structure Elucidation
+<img src="images/molpuzzle.png"  width="450px" height="200px">
+
+**Kehan Guo, Bozhao Nan, Yujun Zhou, Taicheng Guo, Zhichun Guo, Mihir Surve, Zhenwen Liang, Nitesh V. Chawla, Olaf Wiest, Xiangliang Zhang**
+
+<em><span style="color: green;">In Submission</span></em>  
+
+---
 
 :phone: Contact
 ------
