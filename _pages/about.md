@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Kehan Guo, a Ph.D student in Computer Science and Engineering at the  [University of Notre Dame](https://www.nd.edu/), advised by [Professor.Xiangliang Zhang](https://sites.nd.edu/xiangliang-zhang/). I am also glad to be a member of [NSF Center for Computer Assisted Synthesis (C-CAS)](https://ccas.nd.edu/).Before that, I earned my M.S in [Boston University](https://www.bu.edu/).
+Hi, I'm Kehan Guo, a Ph.D student in Computer Science and Engineering at the  [University of Notre Dame](https://www.nd.edu/), advised by [Professor.Xiangliang Zhang](https://sites.nd.edu/xiangliang-zhang/). I am also glad to be a member of [NSF Center for Computer Assisted Synthesis (C-CAS)](https://ccas.nd.edu/). Before that, I earned my M.S in [Boston University](https://www.bu.edu/).
 
 > I am seeking potential research collaborations and the position of industry research intern. If you are interested, please [contact me](mailto:kguo2@nd.edu).
 
